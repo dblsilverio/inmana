@@ -1,4 +1,6 @@
-# Inmana
+# Inmana - Inventory Manager
+
+*Guided project for **[NextLevelWeek](https://nextlevelweek.com/) #5 - Elixir***
 
 To start your Phoenix server:
 
